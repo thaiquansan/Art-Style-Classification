@@ -1,3 +1,5 @@
+# Final Project Deep Learning - MSE
+
 # ArtVision
 
 ArtVision is a deep learning project for **art style classification** on **17 WikiArt classes**.  
